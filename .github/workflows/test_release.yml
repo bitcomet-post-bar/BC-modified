@@ -17,3 +17,8 @@ jobs:
       with:
         name: 测试
         path: ./测试
+    - name: release test
+      uses: svenstaro/upload-release-action@v2
+      with:
+        file: ./测试
+        tag: 测试
