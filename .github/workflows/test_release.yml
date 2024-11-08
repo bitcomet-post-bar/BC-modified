@@ -20,6 +20,5 @@ jobs:
     - name: release test
       uses: svenstaro/upload-release-action@v2
       with:
-        repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: ./测试
-        tag: TEST
+        tag: TEST2
