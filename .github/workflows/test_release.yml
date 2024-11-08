@@ -22,4 +22,4 @@ jobs:
       with:
         repo_token: ${{ secrets.GITHUB_TOKEN }}
         file: ./测试
-        tag: 测试
+        tag: TEST
