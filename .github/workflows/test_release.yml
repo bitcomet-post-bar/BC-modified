@@ -15,5 +15,5 @@ jobs:
     - name: upload test
       uses: actions/upload-artifact@v4
       with:
-        name: upload test
+        name: 测试
         path: ./测试
