@@ -1,0 +1,19 @@
+name: test release
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test_release:
+  name: test release
+  runs-on: ubuntu-latest
+  steps:
+- name: file test
+  run : |
+    mkdir ./测试
+    echo 测试 >./测试/测试.txt
+- name: upload test
+        uses: actions/upload-artifact@v4
+        with:
+          name: upload test
+          path: ./测试
