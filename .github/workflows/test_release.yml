@@ -12,13 +12,20 @@ jobs:
       run : |
         mkdir ./测试
         echo 测试 >./测试/测试.txt
+        mkdir ./test
+        echo test >./test/test.txt
     - name: upload test
       uses: actions/upload-artifact@v4
       with:
         name: 测试
         path: ./测试
-    - name: release test
+    - name: release testc
       uses: svenstaro/upload-release-action@v2
       with:
         file: ./测试
-        tag: TEST
+        tag: TEST2
+    - name: release teste
+      uses: svenstaro/upload-release-action@v2
+      with:
+        file: ./test
+        tag: TEST2
