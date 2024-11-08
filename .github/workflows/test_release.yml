@@ -14,11 +14,16 @@ jobs:
         echo 测试 >./测试/测试.txt
         mkdir ./test
         echo test >./test/test.txt
-    - name: upload test
+    - name: upload testc
       uses: actions/upload-artifact@v4
       with:
         name: 测试
         path: ./测试
+    - name: upload teste
+      uses: actions/upload-artifact@v4
+      with:
+        name: test
+        path: ./test
     - name: release testc
       uses: svenstaro/upload-release-action@v2
       with:
