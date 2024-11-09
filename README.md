@@ -50,7 +50,7 @@
 
 **为什么国内 BT 环境如此恶劣？下载速度如此糟糕？我总结了六点原因...**  
 
-[知乎](https://zhuanlan.zhihu.com/p/87193566) | [彗星论坛](http://https://www.cometbbs.com/t/%E3%80%8C%E8%BD%AC%E8%BD%BD%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%86%85-bt-%E7%8E%AF%E5%A2%83%E5%A6%82%E6%AD%A4%E6%81%B6%E5%8A%A3%EF%BC%9F%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E5%A6%82%E6%AD%A4%E7%B3%9F%E7%B3%95%EF%BC%9F%E6%88%91%E6%80%BB%E7%BB%93%E4%BA%86%E5%85%AD%E7%82%B9%E5%8E%9F%E5%9B%A0%EF%BC%81/33602) | [Wayback Machine](https://web.archive.org/web/20230613041218/https://zhuanlan.zhihu.com/p/87193566)  
+[知乎](https://zhuanlan.zhihu.com/p/87193566) | [彗星论坛](https://www.cometbbs.com/t/%E3%80%8C%E8%BD%AC%E8%BD%BD%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%86%85-bt-%E7%8E%AF%E5%A2%83%E5%A6%82%E6%AD%A4%E6%81%B6%E5%8A%A3%EF%BC%9F%E4%B8%8B%E8%BD%BD%E9%80%9F%E5%BA%A6%E5%A6%82%E6%AD%A4%E7%B3%9F%E7%B3%95%EF%BC%9F%E6%88%91%E6%80%BB%E7%BB%93%E4%BA%86%E5%85%AD%E7%82%B9%E5%8E%9F%E5%9B%A0%EF%BC%81/33602) | [Wayback Machine](https://web.archive.org/web/20230613041218/https://zhuanlan.zhihu.com/p/87193566)  
 
 ---
 
