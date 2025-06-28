@@ -10,10 +10,12 @@
 * 添加tracker服务器列表并设置更新  
 * 删除自动更新程序（其包含捆绑）  
 * 调整配置文件-使用系统默认播放器预览视频  
+* 调整配置文件-添加客户端过滤器并设置[自动订阅](https://github.com/bitcomet-post-bar/BC-Client-Filter)  
 * 调整配置文件-屏蔽迅雷等吸血客户端以及恶意刷流客户端  
 * 调整配置文件-平衡下载速度与性能防止内存占用过多或网络中断  
 * 调整配置文件-添加来自[BTN](https://github.com/PBH-BTN/BTN-Collected-Rules)网络的IP过滤列表订阅-以防范恶意刷流程序  
 * 调整配置文件-禁止来着同一IP的多个连接-以防范恶意刷流程序  
+
 
 ---
 
@@ -52,6 +54,8 @@
 **LCUKY STUN 穿透系列教程 无需IPv4公网开放端口**  
 使用STUN穿透运营商NAT：[链接](https://www.bilibili.com/read/readlist/rl772361)
 
+**其他说明和注意事项**  
+说明和注意事项：[链接](./notice.md)  
 
 ---
 
